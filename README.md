@@ -1,5 +1,7 @@
 # Netflix_project_sql
 
+![Netflix logo](https://github.com/Amar1-aj/Netflix_project_sql/blob/main/logo.png)
+
 📊 Netflix Data Analysis Using SQL
 📌 Overview
 This project performs an in-depth data analysis of Netflix content using PostgreSQL. By running a series of SQL queries on a structured dataset, we explore trends, content distribution, viewer preferences, and key business insights. The analysis helps in answering various strategic and operational questions that could assist content providers, data analysts, and decision-makers at Netflix or similar OTT platforms.
